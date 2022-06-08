@@ -13,10 +13,10 @@ The companies in which I was on student internship are:
 Currently I'm working at SuperHosting.BG as a Technical Support Specialist.
 At the same time I'm learning Java Programming language at SoftUni.
 
-| Certificates |
-| ---         |     :---:      |
-| Amdocs      | [Internship Completion](https://imgur.com/a/fs2bDnn) |
-| SoftUni     | [Programming Basics - Java](https://softuni.bg/certificates/details/124341/cf48b783) |
+|         |                                     Certificates                                     |
+|---------|:------------------------------------------------------------------------------------:|
+| Amdocs  | [Internship Completion](https://imgur.com/a/fs2bDnn)                                 |
+| SoftUni | [Programming Basics - Java](https://softuni.bg/certificates/details/124341/cf48b783) |
 
 You can contact me here: nenad.kostov@gmail.com
 
