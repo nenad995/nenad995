@@ -17,6 +17,7 @@ At the same time I'm learning Java Programming language at SoftUni.
 |---------|:------------------------------------------------------------------------------------:|
 | Amdocs  | [Internship Completion](https://imgur.com/a/fs2bDnn)                                 |
 | SoftUni | [Programming Basics - Java](https://softuni.bg/certificates/details/124341/cf48b783) |
+| SoftUni | [Programming Fundamentals - Java](https://softuni.bg/certificates/details/138568/9e79dc9a) |
 
 You can contact me here: nenad.kostov@gmail.com
 
